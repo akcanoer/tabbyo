@@ -1,14 +1,16 @@
 ## Tabbyo
 
 
-<li>About</li>
+<p><li>About</li></p>
 
-<li><p>Leslie Toombs</li>
+<p><li>Leslie Toombs</li></p>
 
-Pastel, acrylic and mixed media art. Find me at <a href="https://agaveartists.com">Agave Artists</a>
+<p>Pastel, acrylic and mixed media art. Find me at <a href="https://agaveartists.com">Agave Artists</a>
+  
 </p>
-<li><p>StevertheWeaver</li>
-Warping help and occasional loom repairs. Find me at <a href="https://CrucesCreatives.org">Cruces Creatives</a>
+<li>StevertheWeaver</li>
+
+<p>Warping help and occasional loom repairs. Find me at <a href="https://CrucesCreatives.org">Cruces Creatives</a>
 </p>
 
 <p><li>links</li>
