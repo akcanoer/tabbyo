@@ -4,6 +4,8 @@
 <p><li>About</li></p>
 
 <p>just a couple of Mesilleros</p>
+<p>Why TabbyO? Tabby is a cat. We like cats.</p>
+<p>And Tabby is a weave. We weave. </p>
 
 <p><li> <a href="https://LeslieToombs.com">Leslie Toombs</a></li></p>
 
