@@ -17,4 +17,4 @@ just a couple of Mesilleros</p>
 
 <p><li><a href="https://tabbyo.com/links.html">Links</a></li>
   
-coming soon</p>
+favorites</p>
