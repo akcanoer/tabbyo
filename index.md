@@ -15,6 +15,6 @@ just a couple of Mesilleros</p>
 <p>Warping help and occasional loom repairs. Find me at <a href="https://CrucesCreatives.org">Cruces Creatives</a>
 </p>
 
-<p><li>links</li>
+<p><li><a href="https://tabbyo.com/links">Links</a></li>
   
 coming soon</p>
