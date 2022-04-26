@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<i>Home<i/>
+ <li><i>Home</i> </li>
 About
 Leslie Toombs
 StevertheWeaver
