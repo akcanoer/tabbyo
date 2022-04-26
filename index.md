@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/akcanoer/tabbyo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Home
+About
+Leslie Toombs
+StevertheWeaver
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,10 +16,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Header 1 Steve & Leslie
+
+
+## Header 2 Welcome
 ### Header 3
 
+Why tabbyo?
+Tabby is a cat. We like cats.
+Tabby is a weave. We weave. Plain enough? (ya, mostly plain weave aka tapestry, not complex weaving)
 - Bulleted
 - List
 
