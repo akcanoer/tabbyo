@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
 
- <li><i>Home</i> </li>
-About
-Leslie Toombs
-StevertheWeaver
+<li><i>Home</i> </li>
+<li>About</li>
+<li>Leslie Toombs</li>
+<li>StevertheWeaver</li>
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
