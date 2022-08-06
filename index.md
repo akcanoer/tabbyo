@@ -24,6 +24,6 @@
 <p>Warping help and occasional loom repairs. Find me at <a href="https://CrucesCreatives.org">Cruces Creatives</a>
 </p>
 
-<p><ul><li><a href="https://tabbyo.com/links.html">Links</a></ul></li>
+<p><ul><li><a href="https://tabbyo.com/links.html">Links</a></li></ul>
   
 </p>
