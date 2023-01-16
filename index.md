@@ -26,3 +26,4 @@
 
 <p><ul><li><a href="https://tabbyo.com/links.html">Links</a></li></ul>
 </p>
+<p>&copy; 2023</p>
