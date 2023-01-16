@@ -28,7 +28,7 @@
   
 </p>
     <p align="right">
-      <font size="1" face="Garamond">
+      <font size="1">
         <a href="mailto:mail@tabbyo.com?subject=copyright">&copy; 2023</a>
       </font>
     </p>
