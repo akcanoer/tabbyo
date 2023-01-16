@@ -25,7 +25,7 @@
 </p>
 
 <p><ul><li><a href="https://tabbyo.com/links.html">Links</a></li></ul>
-  
+ </p>
     <p align="right">
       <font size="1">
         <a href="mailto:mail@tabbyo.com?subject=copyright">&copy; 2023</a>
