@@ -14,7 +14,7 @@
 
 <p><ul><li> <a href="https://LeslieToombs.com">Leslie Toombs</a></li></ul></p>
 
-<p>Pastel, acrylic and mixed media art. Find me at <a href="https://agaveartists.com">Agave Artists</a>
+<p>Pastel, acrylic and mixed media art. My studio is here - <a href="[https://agaveartists.com](https://LeslieToombs.com)">LeslieToombs.com</a>
   
 </p>
 
