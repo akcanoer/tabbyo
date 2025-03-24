@@ -26,6 +26,6 @@
 
 <p><ul><li><a href="https://tabbyo.com/links.html">Links</a></li></ul>
 </p>
-<p align="right"><font size="2"><a href="mailto:mail@tabbyo.com?subject=copyright">&copy; 2024</a></font>
+<p align="right"><font size="2"><a href="mailto:mail@tabbyo.com?subject=copyright">&copy; 2025</a></font>
 </p>
  
