@@ -14,14 +14,14 @@
 
 <p><ul><li> <a href="https://LeslieToombs.com">Leslie Toombs</a></li></ul></p>
 
-<p>Pastel, acrylic, silk and mixed media art.
+<p>Pastel, acrylic, silk, wire looping and mixed media art.
     
 </p>
 
 <p><ul><li><a href="https://StevertheWeaver.com">Stever the Weaver</a></li></ul></p>
 
 
-<p>Warping help and occasional loom repairs. Find me at <a href="https://CrucesCreatives.org">Cruces Creatives</a>
+<p>Warping help and occasional loom repairs. Find me at <a href="https://CrucesCreatives.org">Cruces Creatives</a>.
 </p>
 
 <p><ul><li><a href="https://tabbyo.com/links.html">Links</a></li></ul>
