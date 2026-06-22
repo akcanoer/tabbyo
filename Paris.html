@@ -40,12 +40,18 @@
 <script>
   const album = document.getElementById("album");
 
-  // Generate images 10 through 430
+  // Try loading each image; only add it if it exists
   for (let i = 10; i <= 430; i++) {
-    const img = document.createElement("img");
-    img.src = `images/Paris 2026 (${i}).jpg`;
-    img.alt = "";
-    album.appendChild(img);
+    const url = `images/Paris 2026 (${i}).jpg`;
+    const testImg = new Image();
+    testImg.src = url;
+
+    testImg.onload = () => {
+      const img = document.createElement("img");
+      img.src = url;
+      img.alt = "";
+      album.appendChild(img);
+    };
   }
 </script>
 
