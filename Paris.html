@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Paris 2026 Album</title>
 
+<style>
+  body {
+    font-family: sans-serif;
+    margin: 40px;
+    background: #fafafa;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 15px;
+  }
+
+  .grid img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    object-fit: cover;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+</style>
+</head>
+
+<body>
+<h1>Paris 2026</h1>
+
+<div class="grid" id="album"></div>
+
+<script>
+  const album = document.getElementById("album");
+
+  // Generate images 10 through 430
+  for (let i = 10; i <= 430; i++) {
+    const img = document.createElement("img");
+    img.src = `images/Paris 2026 (${i}).jpg`;
+    img.alt = "";
+    album.appendChild(img);
+  }
+</script>
+
+</body>
+</html>
